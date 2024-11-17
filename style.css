@@ -1,0 +1,22 @@
+body {
+	background-color: #FBFBFB;
+}
+/*style for img*/
+img{
+	width: 330px;
+	height: 250px;
+	margin: 20px;
+}
+
+.container {
+	background-color: #C6E7FF;
+}
+
+.footer {
+    background-color: lightblue;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+    border-radius: 10px;
+}
